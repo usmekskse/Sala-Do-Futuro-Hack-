@@ -53,7 +53,7 @@ Entre no nosso servidor do Discord, onde oferecemos suporte a todos.**
 </a>
 </p>
 
-# **Como Reportar Erros? 🎁
+# Como Reportar Erros? 🎁
 Encontrou um problema? Siga os passos abaixo para reportar no GitHub:**
 
 - **Acesse a aba "Issues" no topo desta página.**
