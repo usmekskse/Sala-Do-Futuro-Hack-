@@ -22,19 +22,19 @@
 Acesse nossas soluções para as principais plataformas educacionais:**
 
 <p align="center">
-<a href="https://darkmodde.xyz/CMSP-Hacks"><img width="10%" alt="Logo TarefasSP" title="TarefasSP" src="https://i.imgur.com/XICsgcH.png"/></a>
+<a href="https://drylol.netlify.app/"><img width="10%" alt="Logo TarefasSP" title="TarefasSP" src="https://i.imgur.com/XICsgcH.png"/></a>
 &nbsp;&nbsp;
-<a href="https://darkmodde.xyz/CMSP-Hacks"><img width="10%" alt="Logo Redação Paulista" title="Redação Paulista" src="https://i.imgur.com/l3lXH90.png"/></a>
+<a href="https://drylol.netlify.app/"><img width="10%" alt="Logo Redação Paulista" title="Redação Paulista" src="https://i.imgur.com/l3lXH90.png"/></a>
 &nbsp;&nbsp;
-<a href="https://darkmodde.xyz/CMSP-Hacks"><img width="10%" alt="Logo Expansão Noturno" title="Expansão Noturno" src="https://i.imgur.com/gjvdhbo.png"/></a>
+<a href="https://drylol.netlify.app/"><img width="10%" alt="Logo Expansão Noturno" title="Expansão Noturno" src="https://i.imgur.com/gjvdhbo.png"/></a>
 &nbsp;&nbsp;
-<a href="https://darkmodde.xyz/CMSP-Hacks"><img width="10%" alt="Logo Khan Academy" title="Khan Academy" src="https://i.imgur.com/C9wQOe7.png"/></a>
+<a href="https://drylol.netlify.app/"><img width="10%" alt="Logo Khan Academy" title="Khan Academy" src="https://i.imgur.com/C9wQOe7.png"/></a>
 &nbsp;&nbsp;
-<a href="https://darkmodde.xyz/CMSP-Hacks"><img width="10%" alt="Logo Matific" title="Matific" src="https://i.imgur.com/L2kjjO9.png"/></a>
+<a href="https://drylol.netlify.app/"><img width="10%" alt="Logo Matific" title="Matific" src="https://i.imgur.com/L2kjjO9.png"/></a>
 &nbsp;&nbsp;
-<a href="https://darkmodde.xyz/CMSP-Hacks"><img width="10%" alt="Logo SPeak" title="SPeak" src="https://i.imgur.com/pix66D5.png"/></a>
+<a href="https://drylol.netlify.app/"><img width="10%" alt="Logo SPeak" title="SPeak" src="https://i.imgur.com/pix66D5.png"/></a>
 &nbsp;&nbsp;
-<a href="https://darkmodde.xyz/CMSP-Hacks"><img width="10%" alt="Logo Alura" title="Alura" src="https://i.imgur.com/Lyhs87G.png"/></a>
+<a href="https://drylol.netlify.app/"><img width="10%" alt="Logo Alura" title="Alura" src="https://i.imgur.com/Lyhs87G.png"/></a>
 </p>
 
 # Sobre a Plataforma Destroyer
