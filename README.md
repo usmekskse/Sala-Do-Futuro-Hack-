@@ -1,106 +1,133 @@
-# Sala do futuro Hack
-
-**Recomendação, me seiga no canal do youtube para receber acesso e noticias antecipadas e até mesmo tutoriais.**
-<p align="center">
-    <a href="https://www.youtube.com/@dryapenas"><img width="10%" alt="Youtube" title="Youtube" src="https://tinyurl.com/2uaxhrmp"/></a>
-  &nbsp;
-  <p>
-
-
-- Acesse os melhores scripts da sala do futuro.
-- Todos atualizados, sem erros.
-- Todos bonitor e organizados.
-- Sistemas de contas salvas.
-- Usado por mais de 1 milhão de pessoas.
-
-  
-
-# Acesso aos scripts gratis liberados.
-
+# Sala do Futuro Hacks
+**Recomendação: Siga nosso canal no YouTube para receber notícias, acesso antecipado e tutoriais.**
 
 <p align="center">
-    <a href="https://darkmodde.xyz/CMSP-Hacks"><img width="10%" alt="TarefasSP" title="TarefasSP" src="https://i.imgur.com/XICsgcH.png"/></a>
-  &nbsp;
-    <a href="https://darkmodde.xyz/CMSP-Hacks"><img width="10%" alt="Redação Paulista" title="Redação Paulista" src="https://i.imgur.com/l3lXH90.png"/></a>
-  &nbsp;
-    <a href="https://darkmodde.xyz/CMSP-Hacks"><img width="10%" alt="Expansão Noturno" title="Expansão Noturno" src="https://i.imgur.com/gjvdhbo.png"/></a>
-    &nbsp;
-    <a href="https://darkmodde.xyz/CMSP-Hacks"><img width="10%" alt="Khan Academy" title="Khan Academy" src="https://i.imgur.com/C9wQOe7.png"/></a>
-  &nbsp;
-    <a href="https://darkmodde.xyz/CMSP-Hacks"><img width="10%" alt="Matific" title="Matific" src="https://i.imgur.com/L2kjjO9.png"/></a>
-  &nbsp;
-    <a href="https://darkmodde.xyz/CMSP-Hacks"><img width="10%" alt="SPeak" title="SPeak" src="https://i.imgur.com/pix66D5.png"/></a>
-  &nbsp;
-    <a href="https://darkmodde.xyz/CMSP-Hacks"><img width="10%" alt="Alura" title="Alura" src="https://i.imgur.com/Lyhs87G.png"/></a>
+<a href="https://www.youtube.com/@dryapenas">
+<img width="10%" alt="Ícone do Youtube" title="Youtube" src="https://tinyurl.com/2uaxhrmp"/>
+</a>
 </p>
 
-# Plataforma Destroyer
+**Vantagens:**
+- ✅ **Acesse os melhores scripts para a Sala do Futuro.**
 
-- **Nossa equipe é formada por desenvolvedores e estudantes que já não aguentam mais essas plataformas de São Paulo, que não fazem diferença nenhuma e só atrapalham a vida dos alunos. Por isso estamos aqui: para facilitar a vida de vocês, alunos. Obrigado por apoiarem nossos projetos.**
-- Entre no nosso servidor do discord ofereçemos atendimentos a todos.
-- Além de poder reportar até bugs lá.
-- Poder perguntar coisas como "O site é realmente confiavel?"
+- ✅ **Todos atualizados e livres de erros.**
 
-  <p align="center">
-    <a href="https://discord.com/invite/platformdestroyer"><img width="10%" alt="TarefasSP" title="Plataforma destroyer" src="https://tinyurl.com/357656j5"/></a>
-  &nbsp;
-  <p>
+- ✅ **Scripts com código limpo e bem organizado.**
 
-- Para acessar clique em cima.
+- ✅ **Sistema para salvar contas.**
 
+- ✅ **Utilizado por mais de 1 milhão de pessoas.**
 
+**Acesso aos Scripts Gratuitos
+Acesse nossas soluções para as principais plataformas educacionais:**
 
-# Como reportar erros?
+<p align="center">
+<a href="https://darkmodde.xyz/CMSP-Hacks"><img width="10%" alt="Logo TarefasSP" title="TarefasSP" src="https://i.imgur.com/XICsgcH.png"/></a>
+&nbsp;&nbsp;
+<a href="https://darkmodde.xyz/CMSP-Hacks"><img width="10%" alt="Logo Redação Paulista" title="Redação Paulista" src="https://i.imgur.com/l3lXH90.png"/></a>
+&nbsp;&nbsp;
+<a href="https://darkmodde.xyz/CMSP-Hacks"><img width="10%" alt="Logo Expansão Noturno" title="Expansão Noturno" src="https://i.imgur.com/gjvdhbo.png"/></a>
+&nbsp;&nbsp;
+<a href="https://darkmodde.xyz/CMSP-Hacks"><img width="10%" alt="Logo Khan Academy" title="Khan Academy" src="https://i.imgur.com/C9wQOe7.png"/></a>
+&nbsp;&nbsp;
+<a href="https://darkmodde.xyz/CMSP-Hacks"><img width="10%" alt="Logo Matific" title="Matific" src="https://i.imgur.com/L2kjjO9.png"/></a>
+&nbsp;&nbsp;
+<a href="https://darkmodde.xyz/CMSP-Hacks"><img width="10%" alt="Logo SPeak" title="SPeak" src="https://i.imgur.com/pix66D5.png"/></a>
+&nbsp;&nbsp;
+<a href="https://darkmodde.xyz/CMSP-Hacks"><img width="10%" alt="Logo Alura" title="Alura" src="https://i.imgur.com/Lyhs87G.png"/></a>
+</p>
 
-- Dentro desse post aperte em 
-<img width="1240" height="63" alt="image" src="https://github.com/user-attachments/assets/07d58a22-e286-447c-8361-9da06b1e0164" />
+# Sobre a Plataforma Destroyer
+**Nossa equipe é formada por desenvolvedores e estudantes que, como você, estão cansados das plataformas educacionais de São Paulo, que muitas vezes mais atrapalham do que ajudam. Nosso objetivo é facilitar a vida dos alunos. Agradecemos por apoiar nossos projetos!**
 
-Clique em "issues"
+- **Participe da nossa comunidade!
+Entre no nosso servidor do Discord, onde oferecemos suporte a todos.**
 
-<img width="109" height="54" alt="image" src="https://github.com/user-attachments/assets/2fbb70eb-d884-4d03-ba68-33bba42eec4e" />
+- **Receba ajuda, tire dúvidas e reporte bugs diretamente para a equipe.**
 
-- Apos isso você vai entrar em: 
+- **Pergunte sobre a confiabilidade e segurança de nossos projetos.**
 
-<img width="1680" height="330" alt="image" src="https://github.com/user-attachments/assets/81b6041a-416d-41db-b8f6-277a4a512a2d" />
+<p align="center">
+<a href="https://discord.com/invite/platformdestroyer">
+<img width="10%" alt="Ícone do Discord" title="Plataforma Destroyer" src="https://tinyurl.com/357656j5"/>
+</a>
+</p>
 
-- Aperte em "new"
+**Como Reportar Erros?
+Encontrou um problema? Siga os passos abaixo para reportar no GitHub:**
 
-<img width="190" height="94" alt="image" src="https://github.com/user-attachments/assets/bfd75127-6b2f-4d29-8b33-3e9a5d85c0ff" />
-
-- Apos isso reporte o erro:
-
-<img width="1909" height="842" alt="image" src="https://github.com/user-attachments/assets/33099241-e44e-419e-ac20-3d05499e13e2" />
-
-**O erro também pode ser reportado no discord.**
-
-
-# Não venda isso. 
-
-- As pessoas em que vender nossos scripts serão processesadas, e responderão pelo crime, aviso: Se você pagou por isso você foi roubado.
-- Isso é toltamente errado isso é meio que uma enganação ao publico.
-  Não vendam isso.
-
-  <p align="center">
-    <a href=""><img width="10%" alt="no" title="no" src="https://tinyurl.com/4cjefmaw"/></a>
-  &nbsp;
-  
- 
-
-# Fedbacks Servidor oficial
-
-- Nosso servidor é o maior e mais confiavel de scritps.
-
-  Avaliações.
-  <img width="327" height="78" alt="image" src="https://github.com/user-attachments/assets/902ee9db-d1ad-471b-91f8-3bc722cceccf" />
-
-  <img width="752" height="101" alt="image" src="https://github.com/user-attachments/assets/30f72827-3439-4be2-9c00-ac6f615add28" />
-
-  <img width="738" height="108" alt="image" src="https://github.com/user-attachments/assets/3d10dfe7-6f7c-4cd3-afde-278e07275792" />
-
-  - Não irei deixar mais avaliações se não irá deixar o post enorme.
+- **Acesse a aba "Issues" no topo desta página.**
 
 
 
 
 
+<img width="1240" alt="Imagem mostrando a localização da aba Issues" src="https://github.com/user-attachments/assets/07d58a22-e286-447c-8361-9da06b1e0164" />
 
+- **Clique no botão "New issue".**
+
+
+
+
+
+<img width="1680" alt="Imagem mostrando o botão New Issue" src="https://github.com/user-attachments/assets/81b6041a-416d-41db-b8f6-277a4a512a2d" />
+
+- **Descreva o erro com o máximo de detalhes possível e envie.**
+
+
+
+
+
+<img width="1909" alt="Imagem da tela de criação de uma nova issue" src="https://github.com/user-attachments/assets/33099241-e44e-419e-ac20-3d05499e13e2" />
+
+**Alternativa: Você também pode reportar erros diretamente em nosso servidor do Discord.**
+
+# ⚠️ **Não Venda Nossos Scripts!**
+**Atenção: a venda destes scripts é totalmente proibida.**
+
+- **Pessoas que venderem nossos scripts serão processadas e responderão legalmente pelo crime.**
+
+- **Se você pagou por isso, infelizmente foi enganado. Nossos projetos são gratuitos.**
+
+- **Vender nosso trabalho é uma prática desonesta e uma enganação ao público.**
+
+<p align="center">
+<img width="10%" alt="Ícone de proibido vender" title="Venda Proibida" src="https://tinyurl.com/4cjefmaw"/>
+</p>
+
+# Feedbacks do Servidor Oficial
+
+**Nosso servidor é a maior e mais confiável comunidade de scripts. Confira algumas avaliações de nossos usuários:**
+
+<p align="center">
+<img width="752" alt="Avaliação de usuário 1" src="https://github.com/user-attachments/assets/902ee9db-d1ad-471b-91f8-3bc722cceccf" />
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="752" alt="Avaliação de usuário 2" src="https://github.com/user-attachments/assets/30f72827-3439-4be2-9c00-ac6f615add28" />
+
+
+
+
+
+
+
+
+
+
+<img width="738" alt="Avaliação de usuário 3" src="https://github.com/user-attachments/assets/3d10dfe7-6f7c-4cd3-afde-278e07275792" />
+</p>
+
+
+
+
+**Temos muitas outras avaliações positivas! Para não poluir a página, mostramos apenas algumas.**
