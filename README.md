@@ -1,13 +1,16 @@
-# Sala do Futuro Hacks
-**Recomendação: Siga nosso canal no YouTube para receber notícias, acesso antecipado e tutoriais.**
+<a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=007BFF&text=sala%20do%20futuro%20scripts&fontSize=40&fontAlignY=33&fontColor=FFFFFF"/></a>
+<p align="center"><a href="#"><img src="https://komarev.com/ghpvc/?username=NewCMSPHacks&style=for-the-badge&label=Views:&color=gray"/></a></p>
+
+#  Sala do Futuro Hacks
+- **Recomendação: Siga nosso canal no YouTube para receber notícias, acesso antecipado e tutoriais.**
 
 <p align="center">
-<a href="https://www.youtube.com/@dryapenas">
-<img width="10%" alt="Ícone do Youtube" title="Youtube" src="https://tinyurl.com/2uaxhrmp"/>
+<a href="https://www.youtube.com/@dryapenas" title="Inscreva-se no Youtube">
+<img width="10%" alt="Ícone do Youtube" src="https://tinyurl.com/2uaxhrmp"/>
 </a>
 </p>
 
-**Vantagens:**
+**Por Que Usar Nossos Scripts?**
 - ✅ **Acesse os melhores scripts para a Sala do Futuro.**
 
 - ✅ **Todos atualizados e livres de erros.**
@@ -18,8 +21,8 @@
 
 - ✅ **Utilizado por mais de 1 milhão de pessoas.**
 
-**Acesso aos Scripts Gratuitos
-Acesse nossas soluções para as principais plataformas educacionais:**
+ # Acesso Rápido aos Scripts Gratuitos
+**Acesse nossas soluções para as principais plataformas educacionais:**
 
 <p align="center">
 <a href="https://drylol.netlify.app/"><img width="10%" alt="Logo TarefasSP" title="TarefasSP" src="https://i.imgur.com/XICsgcH.png"/></a>
@@ -37,121 +40,64 @@ Acesse nossas soluções para as principais plataformas educacionais:**
 <a href="https://drylol.netlify.app/"><img width="10%" alt="Logo Alura" title="Alura" src="https://i.imgur.com/Lyhs87G.png"/></a>
 </p>
 
-# Sobre a Plataforma Destroyer
+# Sobre a Plataforma Destroyer e Comunidade
 **Nossa equipe é formada por desenvolvedores e estudantes que, como você, estão cansados das plataformas educacionais de São Paulo, que muitas vezes mais atrapalham do que ajudam. Nosso objetivo é facilitar a vida dos alunos. Agradecemos por apoiar nossos projetos!**
 
-- **Participe da nossa comunidade!
+**Participe da Nossa Comunidade!
 Entre no nosso servidor do Discord, onde oferecemos suporte a todos.**
 
-- **Receba ajuda, tire dúvidas e reporte bugs diretamente para a equipe.**
+**Receba ajuda, tire dúvidas e reporte bugs diretamente para a equipe.**
 
-- **Pergunte sobre a confiabilidade e segurança de nossos projetos.**
+**Pergunte sobre a confiabilidade e segurança de nossos projetos.**
 
 <p align="center">
-<a href="https://discord.com/invite/platformdestroyer">
-<img width="10%" alt="Ícone do Discord" title="Plataforma Destroyer" src="https://tinyurl.com/357656j5"/>
+<a href="https://discord.com/invite/platformdestroyer" title="Plataforma Destroyer Discord">
+<img width="10%" alt="Ícone do Discord" src="https://tinyurl.com/357656j5"/>
 </a>
 </p>
 
 # Como Reportar Erros? 🎁
 **Encontrou um problema? Siga os passos abaixo para reportar no GitHub:**
 
-- **Acesse a aba "Issues" no topo desta página.**
+**Acesse a aba "Issues" no topo desta página.**
 
+**Clique no botão "New issue".**
 
+**Descreva o erro com o máximo de detalhes possível e envie.**
 
-
-
-<img width="1240" alt="Imagem mostrando a localização da aba Issues" src="https://github.com/user-attachments/assets/07d58a22-e286-447c-8361-9da06b1e0164" />
-
-- **Clique no botão "New issue".**
-
-
-
-
-
-<img width="1680" alt="Imagem mostrando o botão New Issue" src="https://github.com/user-attachments/assets/81b6041a-416d-41db-b8f6-277a4a512a2d" />
-
-- **Descreva o erro com o máximo de detalhes possível e envie.**
-
-
-
-
-
-<img width="1909" alt="Imagem da tela de criação de uma nova issue" src="https://github.com/user-attachments/assets/33099241-e44e-419e-ac20-3d05499e13e2" />
+<p align="center">
+<img width="70%" alt="Imagem mostrando a localização da aba Issues" src="https://github.com/user-attachments/assets/07d58a22-e286-447c-8361-9da06b1e0164" />
+<img width="70%" alt="Imagem mostrando o botão New Issue" src="https://github.com/user-attachments/assets/81b6041a-416d-41db-b8f6-277a4a512a2d" />
+<img width="70%" alt="Imagem da tela de criação de uma nova issue" src="https://github.com/user-attachments/assets/33099241-e44e-419e-ac20-3d05499e13e2" />
+</p>
 
 **Alternativa: Você também pode reportar erros diretamente em nosso servidor do Discord.**
 
-# ⚠️ **Não Venda Nossos Scripts!**
+# ⚠️ Atenção: Não Venda Nossos Scripts!
 **Atenção: a venda destes scripts é totalmente proibida.**
 
-- **Pessoas que venderem nossos scripts serão processadas e responderão legalmente pelo crime.**
+**Pessoas que venderem nossos scripts serão processadas e responderão legalmente pelo crime.**
 
-- **Se você pagou por isso, infelizmente foi enganado. Nossos projetos são gratuitos.**
+**Se você pagou por isso, infelizmente foi enganado. Nossos projetos são gratuitos.**
 
-- **Vender nosso trabalho é uma prática desonesta e uma enganação ao público.**
+**Vender nosso trabalho é uma prática desonesta e uma enganação ao público.**
 
 <p align="center">
 <img width="10%" alt="Ícone de proibido vender" title="Venda Proibida" src="https://tinyurl.com/4cjefmaw"/>
 </p>
 
 # Feedbacks do Servidor Oficial
-
 **Nosso servidor é a maior e mais confiável comunidade de scripts. Confira algumas avaliações de nossos usuários:**
 
 <p align="center">
-<img width="752" alt="Avaliação de usuário 1" src="https://github.com/user-attachments/assets/902ee9db-d1ad-471b-91f8-3bc722cceccf" />
-
-
-
-
-
-
-
-
-
-
-
-
-<img width="752" alt="Avaliação de usuário 2" src="https://github.com/user-attachments/assets/30f72827-3439-4be2-9c00-ac6f615add28" />
-
-
-
-
-
-
-
-
-
-
-<img width="738" alt="Avaliação de usuário 3" src="https://github.com/user-attachments/assets/3d10dfe7-6f7c-4cd3-afde-278e07275792" />
+<img width="280" alt="Avaliação de usuário 1" src="https://github.com/user-attachments/assets/902ee9db-d1ad-471b-91f8-3bc722cceccf" />
+&nbsp;
+<img width="280" alt="Avaliação de usuário 2" src="https://github.com/user-attachments/assets/30f72827-3439-4be2-9c00-ac6f615add28" />
+&nbsp;
+<img width="280" alt="Avaliação de usuário 3" src="https://github.com/user-attachments/assets/3d10dfe7-6f7c-4cd3-afde-278e07275792" />
 </p>
-
-
-
 
 **Temos muitas outras avaliações positivas! Para não poluir a página, mostramos apenas algumas.**
 
-# License 🏛️
 
-**MIT License**
-
-**Copyright (c) 2025 Dry**
-
-**Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:**
-
-**The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.**
-
-**THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.**
+<a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=7851A9&section=footer"/></a>
