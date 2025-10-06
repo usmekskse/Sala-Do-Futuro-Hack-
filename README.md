@@ -100,4 +100,16 @@ Entre no nosso servidor do Discord, onde oferecemos suporte a todos.**
 **Temos muitas outras avaliações positivas! Para não poluir a página, mostramos apenas algumas.**
 
 
+
+
+
+## 🚀 Gostou do projeto? Deixe sua reação!
+
+- Deixe sua reação abaixo, isso ajuda muito para nós continuar com esse tipo de video e script.
+
+
 <a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=7851A9&section=footer"/></a>
+
+
+
+
