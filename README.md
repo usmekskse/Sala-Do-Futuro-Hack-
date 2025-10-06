@@ -102,10 +102,10 @@ Entre no nosso servidor do Discord, onde oferecemos suporte a todos.**
 
 
 
+## ⭐ Gostou do projeto?
 
-## 🚀 Gostou do projeto? Deixe sua reação!
+**Dê uma estrela no topo da página! Isso ajuda o projeto a crescer.**
 
-- Deixe sua reação abaixo, isso ajuda muito para nós continuar com esse tipo de video e script.
 
 
 <a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=7851A9&section=footer"/></a>
