@@ -105,7 +105,7 @@ Entre no nosso servidor do Discord, onde oferecemos suporte a todos.**
 ## ⭐ Gostou do projeto?
 
 **Dê uma estrela no topo da página! Isso ajuda o projeto a crescer.**
-
+[clique aqui para reagir com um emoji](https://github.com/usmekskse/Sala-Do-Futuro-Hack-!) 🚀 
 
 
 <a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=7851A9&section=footer"/></a>
